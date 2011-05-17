@@ -1,5 +1,3 @@
-#DataModel for lazy fetching data in PrimeFaces library
-
 = Introduction =
 
 see http://primefaces.org
